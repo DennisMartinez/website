@@ -24,12 +24,16 @@ p {
 }
 
 a {
-  color: #007acc;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
+}
+
+a,
+.blue {
+  color: #007acc;
 }
 
 small {
